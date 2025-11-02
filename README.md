@@ -3,6 +3,8 @@
 This is a simple React application have slider functionality using useState.
 Click on the forward or back button to see the next or previous slide.
 
+
+
 ## Functionalities:
 
 - Slider functionality using useState.
@@ -32,3 +34,10 @@ To create an optimized production build, run:
 npm run build
 
 The build will be generated in the 'dist' (or 'build') folder ready for deployment.
+## Demo:
+  Here you can see the demo version of the Choose aplication:
+  
+  [Weather App](## Demo:
+  Here you can see the demo version of the Weather App:
+  
+  [Choose gift App](https://choosegift.netlify.app/)
